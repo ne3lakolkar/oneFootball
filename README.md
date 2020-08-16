@@ -13,6 +13,8 @@ Happy Playing !
 Goal is just to put the ball out of his paddle reach and out of the screen.  
 While the AI tries to do the same against you ;)
 
+https://github.com/ne3lakolkar/oneFootball/blob/master/oneFootball.html
+
 Try to score 3 against the AI, and you may win the game just for now, as AI gets stronger and better the more you play against it. 
 
 Hope you enjoy!
