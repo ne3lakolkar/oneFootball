@@ -7,7 +7,7 @@ Unlikely from football soccer game, here except of 11 team players, you’re the
 
 Happy Playing !
 
-![Screenshot](https://github.com/ne3lakolkar/oneFootball/blob/master/Capture.PNG)
+![Screenshot](https://github.com/ne3lakolkar/oneFootball/blob/master/screenshot.PNG)
 
 ## How to play?
 Goal is just to put the ball out of his paddle reach and out of the screen.  
