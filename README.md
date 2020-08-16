@@ -1,7 +1,7 @@
 # oneFootball
 
-oneFootball is a JS coded HTML canvas game.   
-Rules of the game are pretty simple. You’re the only player versus the computer or finely called the ‘AI’.   
+oneFootball is a canvas game created using HTML and JS.   
+Rules of the game are pretty simple. You’re the only player versus the computer called the ‘AI’.   
 
 Unlikely from football soccer game, here except of 11 team players, you’re the only one in the team - both goalkeeper and the striker!
 
