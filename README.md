@@ -10,7 +10,8 @@ Happy Playing !
 ![Screenshot](https://github.com/ne3lakolkar/oneFootball/blob/master/Capture.PNG)
 
 ## How to play?
-Goal is just to put the ball out of his paddle reach and out of the screen.  While the AI tries to do the same against you ;)
+Goal is just to put the ball out of his paddle reach and out of the screen.  
+While the AI tries to do the same against you ;)
 
 Try to score 3 against the AI, and you may win the game just for now, as AI gets stronger and better the more you play against it. 
 
