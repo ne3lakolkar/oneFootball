@@ -1,5 +1,6 @@
 # oneFootball
 ![logo](https://github.com/ne3lakolkar/oneFootball/blob/master/img/logo.gif)
+
 oneFootball is a canvas game created using HTML and JS.   
 Rules of the game are pretty simple. You’re the only player versus the computer called the ‘AI’.   
 
