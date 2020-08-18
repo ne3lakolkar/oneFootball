@@ -1,6 +1,5 @@
 # oneFootball
 
-<iframe frameborder="0" src="https://itch.io/embed/733008?dark=true" width="552" height="167"><a href="https://ne3lakolkar.itch.io/onefootball">oneFootball by Neel Akolkar</a></iframe>
 oneFootball is a canvas game created using HTML and JS.   
 Rules of the game are pretty simple. You’re the only player versus the computer called the ‘AI’.   
 
