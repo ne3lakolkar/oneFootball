@@ -1,6 +1,6 @@
-# oneFootball
 ![logo](https://github.com/ne3lakolkar/oneFootball/blob/master/img/logo.gif)
 
+# oneFootball
 oneFootball is a canvas game created using HTML and JS.   
 Rules of the game are pretty simple. You’re the only player versus the computer called the ‘AI’.   
 
@@ -17,6 +17,9 @@ While the AI tries to do the same against you ;)
 Try to score 3 against the AI, and you may win the game just for now, as AI gets stronger and better the more you play against it. 
 
 Hope you enjoy!
+
+## Play for free
+https://ne3lakolkar.itch.io/
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
