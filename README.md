@@ -19,7 +19,7 @@ Try to score 3 against the AI, and you may win the game just for now, as AI gets
 Hope you enjoy!
 
 ## Play for free
-https://ne3lakolkar.itch.io/
+[oneFootball by ne3lakolkar](https://ne3lakolkar.itch.io/)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
