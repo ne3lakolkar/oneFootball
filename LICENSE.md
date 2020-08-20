@@ -1,5 +1,5 @@
-                                MIT License
-                        https://choosealicense.com/licenses/mit/
+MIT License
+https://choosealicense.com/licenses/mit/
 
    MIT License
 
